@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 12 12:52:57 MSK 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0173-e216-473d-000001467ad8 
+on database directory memory:/home/konstantin/repo/jira/calendar/27391b3c-b161-4061-8e24-bd69e0a03aba with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42a57993 
+Loaded from file:/home/konstantin/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=/home/konstantin/repo/jira/calendar
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-42-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
